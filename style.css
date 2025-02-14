@@ -85,7 +85,7 @@ img {
   margin-left: 100px;
 }
 
-@media (min-width: 885px) {
+@media (min-width: 1087px) {
   .header-container {
     display: flex;
     justify-content: space-around;
